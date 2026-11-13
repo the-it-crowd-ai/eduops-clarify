@@ -1,0 +1,35 @@
+
+{
+  "test_cases": [
+    {
+      "student_id": "student_001",
+      "student_answer": "Things getting expensive and same money can't buy like before.",
+      "expected_mark": 2,
+      "expected_status": "assessed"
+    },
+    {
+      "student_id": "student_002",
+      "student_answer": "Inflation means prices increase over time.",
+      "expected_mark": 1,
+      "expected_status": "assessed"
+    },
+    {
+      "student_id": "student_003",
+      "student_answer": "Inflation makes everything cheaper.",
+      "expected_mark": 0,
+      "expected_status": "assessed"
+    },
+    {
+      "student_id": "student_004",
+      "student_answer": "Inflation is when money goes down.",
+      "expected_mark": null,
+      "expected_status": "needs_clarification"
+    },
+    {
+      "student_id": "student_005",
+      "student_answer": "The prices of goods and services generally rise over time, reducing purchasing power.",
+      "expected_mark": 2,
+      "expected_status": "assessed"
+    }
+  ]
+}

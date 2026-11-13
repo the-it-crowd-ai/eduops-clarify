@@ -1,0 +1,18 @@
+
+{
+  "question_id": "Q001",
+  "question": "Explain what inflation means and how it affects the purchasing power of money.",
+  "maximum_mark": 2,
+  "rubric": [
+    {
+      "id": "C1",
+      "description": "Prices of goods and services generally increase over time.",
+      "points": 1
+    },
+    {
+      "id": "C2",
+      "description": "Money loses purchasing power; the same amount buys less.",
+      "points": 1
+    }
+  ]
+}

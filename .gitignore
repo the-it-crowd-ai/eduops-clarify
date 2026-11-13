@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local SQLite databases and sidecar files
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Generated PowerShell module cache
+/Microsoft/Windows/PowerShell/ModuleAnalysisCache
+
+# EduOps Clarify local files
+results/
+.adk/
+*.sqlite3*
+*.db
+*.db-*
