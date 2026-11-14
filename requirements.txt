@@ -1,0 +1,4 @@
+# UI deployment requirements (project still uses Google ADK, Gemini and SQLite)
+streamlit>=1.42,<2
+python-dotenv>=1.0,<2
+google-adk==2.14.0
